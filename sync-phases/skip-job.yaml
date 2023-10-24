@@ -1,4 +1,4 @@
-apiVersion: kubernetes:batch/v1:Job
+apiVersion: kubernetes:batch/v1
 kind: Job
 metadata:
   name: skip
